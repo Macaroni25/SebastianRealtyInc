@@ -66,14 +66,21 @@
     <!---END Jumbotron--->
 
     <!---About Panel--->
-<div class="panel panel-default">
-  <div class="panel-heading">
-    <h3 class="panel-title">About us</h3>
-  </div>
-  <div class="panel-body">
-    Gil and Rhoda Swiger moved to Sebastian in 1968 from Painesville, Ohio. In 1970 Gil started Indian River Cablevision and brought the first cable TV to the area. In 1975, he began his real estate career with Ken Atha Real Estate, Inc.  Sebastian Realty was purchased in 1995. We are fortunate to have a small "family" business with agents and staff who truly love our area and find it a pleasure to market property here. We invite you to stop by our office at 1329 U.S. Hwy 1, have a cup of coffee and meet our friendly staff.
-  </div>
-</div>
+
+    <div class="conatiner-fluid">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h3 class="panel-title">About us</h3>
+            </div>
+            <div class="panel-body">
+                Gil and Rhoda Swiger moved to Sebastian in 1968 from Painesville, Ohio. In 1970 Gil started Indian River Cablevision and
+                brought the first cable TV to the area. In 1975, he began his real estate career with Ken Atha Real Estate,
+                Inc. Sebastian Realty was purchased in 1995. We are fortunate to have a small "family" business with agents
+                and staff who truly love our area and find it a pleasure to market property here. We invite you to stop by
+                our office at 1329 U.S. Hwy 1, have a cup of coffee and meet our friendly staff.
+            </div>
+        </div>
+    </div>
 
     <!---END About panel--->
 
