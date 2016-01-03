@@ -34,17 +34,12 @@
           <ul class="dropdown-menu">
             <li><a href="#">Property</a></li>
             <li><a href="#">Rentals</a></li>
-            <li><a href="#">Something else here</a></li>
-            <li role="separator" class="divider"></li>
-            <li><a href="#">Separated link</a></li>
-            <li role="separator" class="divider"></li>
-            <li><a href="#">One more separated link</a></li>
           </ul>
         </li>
       </ul>
       <form class="navbar-form navbar-left" role="search">
         <div class="form-group">
-          <input type="text" class="form-control" placeholder="Search">
+          <input type="text" class="form-control" placeholder="coming soon!">
         </div>
         <button type="submit" class="btn btn-default">Submit</button>
       </form>
