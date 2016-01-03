@@ -67,7 +67,7 @@
 
     <!---About Panel--->
 
-    <div class="conatainer">
+    <div class="container">
         <div class="panel panel-default">
             <div class="panel-heading">
                 <h3 class="panel-title">About us</h3>
