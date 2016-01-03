@@ -40,6 +40,10 @@
 </nav>
 <!---END Navbar--->
 
+<br>
+<br>
+<br>
+
 <div class="container-fluid">
   <div class="container">
     <h1>Sebastian Realty</h1>
