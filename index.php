@@ -31,12 +31,12 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
                     <li class="active"><a href="#home">Home<span class="sr-only">(current)</span></a></li>
-                    <li><a href="#">About us</a></li>
-                    <li><a href="#">Properties</a></li>
-                    <li><a href="#">Rentals</a></li>
+                    <li><a href="#about">About us</a></li>
+                    <li><a href="#properties">Properties</a></li>
+                    <li><a href="#rentals">Rentals</a></li>
                 </ul>
                 <ul class="nav navbar-nav navbar-right">
-                    <li><a href="#">Contact us</a></li>
+                    <li><a href="#contact">Contact us</a></li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
